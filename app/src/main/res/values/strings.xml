@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Catalogue Compose</string>
+    <string name="movie">Movie</string>
+    <string name="profile">Profile</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="runtime">Runtime</string>
+    <string name="score">Score</string>
+    <string name="overview">Overview</string>
+    <string name="my_name">Kamal Fadl-lu Maulayal Matin</string>
+    <string name="my_email">kamal.elfald@gmail.com</string>
+    <string name="search_movies">Search movies</string>
+    <string name="favorite">Favorite</string>
+</resources>
